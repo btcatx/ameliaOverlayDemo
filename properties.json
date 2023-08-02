@@ -1,6 +1,6 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/banking/?domainCode=bankingservices",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/banking/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/Cust_UI/?domainCode=bankingservices",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/Cust_UI/",
   "parentUrl": "https://www.chase.com/"
 }
