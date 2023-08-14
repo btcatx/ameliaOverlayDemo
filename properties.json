@@ -1,6 +1,6 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/Cust_UI/?domainCode=bencase",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/Cust_UI/",
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/?domainCode=bencase",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/AmeliaCust/",
   "parentUrl": "https://www.bessemertrust.com/"
 }
