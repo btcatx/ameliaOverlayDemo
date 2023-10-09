@@ -1,6 +1,6 @@
 {
   "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=itservicedesk",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=itservicedesk",
-  "parentUrl": "https://www.gates.com/"
+  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=banking",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=banking",
+  "parentUrl": "https://www.rbc.com/"
 }
