@@ -1,6 +1,6 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=itservicedesk",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/chat?domainCode=itservicedesk",
-  "parentUrl": "https://www.gates.com/"
+  "originUrl": "https://ecomm911.dev.amelia.com/",
+  "ameliaUrl": "https://ecomm911.dev.amelia.com/Amelia/ui/builtin/chat?domainCode=ecomm911_dev",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/builtin/chat?domainCode=ecomm911_dev",
+  "parentUrl": "https://www.peelpolice.ca/"
 }
