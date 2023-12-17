@@ -1,6 +1,6 @@
 {
-  "originUrl": "https://us.demo.amelia.com/",
-  "ameliaUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/?domainCode=automotive",
-  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/?domainCode=automotive",
-  "parentUrl": "https://www.carmax.com/"
+  "originUrl": "https://retail.demo.amelia.com/",
+  "ameliaUrl": "https://retail.demo.amelia.com/Amelia/ui/bencase/?domainCode=retail",
+  "chatUrl": "https://us.demo.amelia.com/Amelia/ui/bencase/?domainCode=retail",
+  "parentUrl": "https://us.vwr.com/store/"
 }
